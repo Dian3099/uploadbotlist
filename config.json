@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6282310499952@s.whatsapp.net"],
+  "ownerName": ["Owner Azma Bot"],
+  "botName": "Azma Bot",
+  "footer": "Azma-Bot © 2022",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "Bang Toip"
+    }
+}
